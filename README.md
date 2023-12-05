@@ -1,6 +1,6 @@
 # Copyright
 
-Content copy right belongs to owner of imwsn.com from 2023.
+Content copyright belongs to owner of imwsn.com from 2023. The jekyll theme follows MIT License.
 
 
 # Site
