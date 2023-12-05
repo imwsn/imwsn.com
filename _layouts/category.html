@@ -3,7 +3,7 @@
 <meta http-equiv="Content-Security-Policy" content="default-src 'none'; script-src 'self'; style-src 'self' https://fonts.googleapis.com; img-src 'self'; font-src 'self' https://fonts.gstatic.com; connect-src 'self'; media-src 'self'; object-src 'self'; child-src 'self'; form-action 'none'; base-uri 'self'" />
 <meta http-equiv="X-XSS-Protection"  content="1;mode=block" always>
 <meta http-equiv="Referrer-Policy" content="no-referrer, strict-origin-when-cross-origin">
-<head> <title> {{site.title}} </title> </head>
+
   {%- include head.html -%}
 
   <body>
@@ -12,12 +12,18 @@
       {%- include header.html -%}
 
       <main>
-        <h1>{{ page.title }}</h1>
-        {{ page.date | date: date_format }}        
-        <br>
-        <br>
-        {{ content }}
-
+        {% assign cat = page.layout %}
+        {%- if site.posts.size > 0 -%}
+        <ul>
+          {%- for post in site.categories[cat] -%} 
+          <li>
+            {%- assign date_format = "%Y-%m-%d" -%}
+            [ {{ post.date | date: date_format }} ] <a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
+          </li>
+          {%- endfor -%}
+        </ul>
+        {%- endif -%}
+        
     </main>
 
     {%- include footer.html -%}

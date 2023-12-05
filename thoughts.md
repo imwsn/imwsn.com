@@ -1,0 +1,5 @@
+---
+title: /Thoughts
+layout: thoughts
+---
+

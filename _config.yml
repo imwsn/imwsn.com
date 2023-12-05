@@ -1,15 +1,55 @@
-# Example Site settings
+title: 'Principles about Lonely or Vulgar'
+baseurl: "/"
 
-#google_analytics: UA-NNNNNNNN-N
+locale: "en-US"
+google_analytics: G-3EWH1G9KDS
 
-#header_pages:
-#  - index.md
-#  - about.md
 
-#footer: 'follow us on <a href="https://twitter.com/">twitter</a>'
+author:
+  name: "imwsn"
 
-#style: light # dark (default) or light
+header_pages:
+  - home.md
+  - notes.md
+  - thoughts.md
+  - about.md
+  
+style: hacker # dark (default), light, hacker
 #listen_for_clients_preferred_style: true # true or false (default)
+
+# Markdown Processing
+kramdown:
+  input: GFM
+  hard_wrap: false
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  smart_quotes: lsquo,rsquo,ldquo,rdquo
+  enable_coderay: false
+
+# markdown
+markdown: kramdown
+highlighter: rouge
+
+# Markdown Processing
+kramdown:
+  input: GFM
+  hard_wrap: false
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  smart_quotes: lsquo,rsquo,ldquo,rdquo
+  enable_coderay: false
+
+remote_theme: b2a3e8/jekyll-theme-console
+#theme: jekyll-theme-console
+
+# output
+paginate: 20 # amount of posts to show
+paginate_path: /blog/page:num/
 
 plugins:
   - jekyll-seo-tag
+  - jekyll-paginate

@@ -1,0 +1,33 @@
+---
+layout: default
+title: imwsn.com
+---
+
+<!-- This loops through the paginated posts -->
+<ul>
+  {% for post in paginator.posts %}
+  <li>
+    {%- assign date_format = "%Y-%m-%d" -%}
+    [ {{ post.date | date: date_format }} ] <a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
+  </li>
+  {% endfor %}
+</ul>
+
+<br>
+<br>
+<!-- Pagination links -->
+<div class="pagination">
+  <center>
+    {% if paginator.previous_page %}
+      <a href="{{ paginator.previous_page_path }}" class="previous"> <- Prev</a>
+    {% else %}
+      <span class="previous">Previous</span>
+    {% endif %}
+      <span class="page_number ">Page: {{ paginator.page }} / {{ paginator.total_pages }}</span>
+    {% if paginator.next_page %}
+      <a href="{{ paginator.next_page_path }}" class="next">Next -></a>
+    {% else %}
+      <span class="next">Next</span>
+    {% endif %}
+  </center>
+</div>
