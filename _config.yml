@@ -14,7 +14,7 @@ header_pages:
   - thoughts.md
   - about.md
   
-style: hacker # dark (default), light, hacker
+style: dark # dark (default), light, hacker
 #listen_for_clients_preferred_style: true # true or false (default)
 
 # Markdown Processing
