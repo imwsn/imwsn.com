@@ -23,4 +23,4 @@ date: 2023-12-06
     <img src ="https://raw.githubusercontent.com/imwsn/home/master/_pics/particle.png">
 6. Simple Texture, [Demo](https://yizeng.github.io/jekyll-theme-simple-texture/), [Homepage](https://github.com/yizeng/jekyll-theme-simple-texture)
 
-    <img src ="https://raw.githubusercontent.com/imwsn/home/master/_pics/.png">
+    <img src ="https://raw.githubusercontent.com/imwsn/home/master/_pics/simple-texture.png">
