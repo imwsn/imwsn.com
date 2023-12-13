@@ -8,4 +8,5 @@ category: notes
 
 最基础的一篇 [Large language modesls, explained with a minimum of math and jargon](https://www.understandingai.org/p/large-language-models-explained-with)
 
-[![中文视频解读](https://img.youtube.com/vi/dIyQl99oxlg/maxresdefault.jpg)](https://www.youtube.com/watch?v=dIyQl99oxlg)
+中文视频解读
+{% include youtube.html id="dIyQl99oxlg" %}
