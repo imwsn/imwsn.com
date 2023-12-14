@@ -24,3 +24,7 @@ date: 2023-12-06
 6. Simple Texture, [Demo](https://yizeng.github.io/jekyll-theme-simple-texture/), [Homepage](https://github.com/yizeng/jekyll-theme-simple-texture)
 
     <img src ="https://raw.githubusercontent.com/imwsn/home/master/_pics/simple-texture.png">
+
+7. Chulapa, [Demo](https://jamstackthemes.dev/demo/theme/chulapa/), [Homepage](https://jamstackthemes.dev/theme/chulapa/)
+
+    <img src = "https://jamstackthemes.dev/capture/dieghernan-chulapa.png" width = "250" height = "200">
