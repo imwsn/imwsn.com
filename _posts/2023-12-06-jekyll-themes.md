@@ -28,3 +28,15 @@ date: 2023-12-06
 7. Chulapa, [Demo](https://jamstackthemes.dev/demo/theme/chulapa/), [Homepage](https://jamstackthemes.dev/theme/chulapa/)
 
     <img src = "https://jamstackthemes.dev/capture/dieghernan-chulapa.png" width = "250" height = "200">
+
+8. TeXt Theme, [Demo](https://kitian616.github.io/jekyll-TeXt-theme/), [Homepage](https://github.com/kitian616/jekyll-TeXt-theme)
+
+    <img src = "https://cc-dam.imgix.net/blog/uploads/text-theme.jpg"  width = "250" height = "200">
+
+9. Vonge, [Demo](https://jazzed-kale.cloudvent.net/), [Homepage](https://github.com/CloudCannon/vonge-jekyll-bookshop-template)
+
+    <img src = "https://cc-dam.imgix.net/vonge-screenshot.png"   width = "250" height = "200">
+
+10. Jekflix, [Demo](https://jekflix.rossener.com/), [Homepage](https://github.com/thiagorossener/jekflix-template)
+    
+    <img src = "https://cc-dam.imgix.net/blog/uploads/jekflix.jpg" width = "250" height = "200">
