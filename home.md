@@ -4,6 +4,6 @@ layout: home
 permalink: /
 ---
 
-# Principle about Lonely or Vulgar
+# Principles about Lonely or Vulgar
 
 Notes about engineering, thoughts about the world.

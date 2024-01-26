@@ -39,3 +39,21 @@ category: thoughts
 1. 在2023年中国车企出口的排名中，上汽通用，奇瑞和吉利排前三。
 2. 上汽通用只在上交所上市，看看就行了。
 3. 奇瑞还没有IPO，他们可能会在近一两年内上市，值得关注，但是奇瑞只有燃油车没有电动，是一个cons。
+
+# Updated 2024-01-25
+在特斯拉2023 Q4的earning call上，Musk被问到中国汽车工业
+
+
+**Q:** *Adam Jonas*
+
+Maybe as a follow-up. Elon, I'd love your thoughts on the topic of China-based OEMs expanding into Western markets. As the China market kind of gets saturated and there's a tremendous growth in the supply, how much success should Tesla investors allow for this competition to achieve in Western markets? And can you envision a scenario where Tesla could partner with a Chinese OEM to help accelerate sustainable transport in markets like Europe and the United States? Thanks.
+
+**A:** *Elon Musk*
+
+Well, our observation is generally that the Chinese car companies are the most competitive car companies in the world. So I think they will have significant success outside of China depending on what kind of tariffs or trade barriers are established. **Frankly, I think if there are not trade barriers established, they will pretty much demolish most other car companies in the world. So they're extremely good**.
+
+We don't see an obvious opportunity to partner. Certainly, we're happy to, except on the supercharger front. We're obviously happy to give any electric car company access to our supercharger network. We're also happy to license full self-driving, perhaps license other technologies, and anything that could be helpful in advancing the sustainable energy revolution.
+
+
+earning call 视频，问题在45：09回答
+{% include youtube.html id="GsLre3G8BE4" %}
