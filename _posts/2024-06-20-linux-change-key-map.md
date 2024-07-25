@@ -37,3 +37,22 @@ xmodmap -e "add control = Super_L"
 ```
 xmodmap -pm
 ```
+
+# Persist change to system auto-start
+
+1. Save xmodmap file
+```
+xmodmap -pke > ~/.Xmodmap
+```
+
+2. Modify .Xmodmap file, at the bottom of the file, add
+```
+! Modify Meta key to be Control 
+remove mod4 = Super_L
+add Control = Super_L
+```
+
+3. Add into system start auto init
+```
+echo "xmodmap ~/.Xmodmap" > ~/.initrc
+```
