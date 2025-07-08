@@ -24,12 +24,12 @@ category: thoughts
 
 我决定在架构完成并deliver了一个用户管理和payment系统之后退出这个startup, 没有拿任何cash和equity. 没有对LLM部分提出任何建议.
 
-## 2. What I leared
+## 2. What I learned
 每次在不同的startup都能得到不同的经验. 这次的经验是, 哪怕是非常信任的朋友,还是应该把comp metric在开始之前说清楚,把退出机制说好并留下trace. 
 
 因为我自己的情况也变化比较多, 从刚开始积极involve希望在三个月内看到效果, 到时间无法平衡, 对项目整体失去兴趣, 时间沉没成本指数增加,和之前的startup朋友聊过之后决定完全放弃1%的equity.
 
 和上一次的startup相比, 觉得养个小朋友之后对时间割裂度比想象中大了2个数量级, 之前对时间管理的经验已经完全不适用现在的情况. 这也是对公司founder expectation management做的不好的地方.
 
-## 3. Next step
+## 3. What next
 GenAI在过去的半年有了过去两年中最快速的发展,整个世界又在开始迅速调整了.我下一步会在GenAI方向继续自己的职业,不会再做纯码农. 有很多需要rampup学习和调整的地方,会单开一篇记录一下.
