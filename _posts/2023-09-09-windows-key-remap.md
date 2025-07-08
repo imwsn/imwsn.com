@@ -1,7 +1,7 @@
 ---
 title: Windows Key Remap
 category: notes
-date: 2024-09-09
+date: 2023-09-09
 ---
 
 I want to map "Left Win"(Meta) key to "Left Control" in windows. There are 2 solutions.
