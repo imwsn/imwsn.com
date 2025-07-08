@@ -22,4 +22,8 @@ sudo dockerd
 sudo docker run hello-world
 ```
 
-土鳖抗铁牛
+# build docker
+过去一段时间的经验是,写个build_docker_image.sh的脚本build, tag和push到dockerhub上
+
+# deploy docker
+可以使用docker pull或者docker run的命令来用,不过在部署了k8s以后,可以配置好service和deployment yaml,直接使用kubectl apply来部署
