@@ -1,7 +1,7 @@
 ---
 title: 一点小交易总结
 date: 2025-10-30
-category:notes 
+category: notes
 ---
 
 今年在交易上重复犯了好几个类似的错误，过去一周又犯了一次, 记录一下提醒自己。
