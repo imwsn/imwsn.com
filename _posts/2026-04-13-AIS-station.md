@@ -1,6 +1,6 @@
 ---
 title: AIS APRS Receiver and LoRa APRS iGate
-date:2026-04-13
+date: 2026-04-13
 category: notes
 ---
 
